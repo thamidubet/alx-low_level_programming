@@ -11,12 +11,3 @@
          puts("\"Programming is like building a multilingual puzzle"); 
          return (0); 
  }
-
-5-printf.c
-#include <stdio.h> 
-  
- /** 
-  * main - Print a string 
-  * Description: use printf 
-  * Return: 0 
-  */ 
